@@ -19,11 +19,11 @@ bmp-2-4bpp <BITMAP_FILE> <PALETTE_FILE> <PALETTE_INDEX> <WIDTH> <HEIGHT>
 ## Example Usage
 Convert a 64x16 4bpp graphic file named `TEX.BIN` to bitmap using palette the first palette index (i.e., `0`) from palette file `TEX.PAL`.
 ```
-4pp-2-bmp TEX.BIN TEX.PAL 0 64 16
+4bpp-2-bmp TEX.BIN TEX.PAL 0 64 16
 ```
 Convert a 64x16 bitmap named `TEX.BIN.BMP` to 4bpp graphic format using palette the first palette index (i.e., `0`) from palette file `TEX.PAL`.
 ```
-bmp-2-15bpp TEX.BIN.BMP TEX.PAL 0 64 16
+bmp-2-4bpp TEX.BIN.BMP TEX.PAL 0 64 16
 ```
 
 ## Tutorial
