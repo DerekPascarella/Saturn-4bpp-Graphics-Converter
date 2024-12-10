@@ -4,7 +4,7 @@ A utility to convert between SEGA Saturn 4bpp graphic format and bitmaps.
 After dumping both a 4bpp graphics file and its corresponding palette file from a SEGA Saturn game and identifying its dimensions, `4bpp-2-bmp` can be used to convert said graphic data to a bitmap for editing. After editing the bitmap, it can be converted back to its original 4bpp graphic format using `bmp-2-4bpp`.
 
 ## Current Version
-Saturn 4bpp Graphics Converter is currently at version [1.0](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/releases/download/1.0/Saturn.4bpp.Graphics.Converter.v1.0.zip).
+Saturn 4bpp Graphics Converter is currently at version [1.0](https://github.com/DerekPascarella/-Saturn-4bpp-Graphics-Converter/releases/download/1.0/Saturn.4bpp.Graphics.Converter.v1.0.zip).
 
 ## Usage
 Note that the output filename of `4bpp-2-bmp` will be the input filename with the `.BMP` extension appended (e.g., an input file named `TEX.BIN` will produce `TEX.BIN.BMP`).
