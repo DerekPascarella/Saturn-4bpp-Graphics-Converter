@@ -29,6 +29,6 @@ bmp-2-15bpp TEX.BIN.BMP TEX.PAL 0 64 16
 ## Tutorial
 [Malenko](https://segaxtreme.net/members/malenko.22808/) published a fantastic tutorial on ripping and replacing Sega Saturn graphic assets on the [SegaXtreme](https://segaxtreme.net) forums. Click the preview screenshot below to access it.
 
-[![Tutorial Screenshot](https://github.com/DerekPascarella/Saturn-15bpp-Graphics-Converter/blob/main/tutorial.png?raw=true)](https://segaxtreme.net/threads/lets-replace-sega-saturn-graphics.25295/)
+[![Tutorial Screenshot](https://github.com/DerekPascarella/-Saturn-4bpp-Graphics-Converter/blob/main/tutorial.png?raw=true)](https://segaxtreme.net/threads/lets-replace-sega-saturn-graphics.25295/)
 
 Note that Malenko also created a guide on the usage of the [Saturn 15bpp Graphics Converter](https://github.com/DerekPascarella/Saturn-15bpp-Graphics-Converter), which may prove helpful to those wishing to use Saturn 4bpp Graphics Converter.
